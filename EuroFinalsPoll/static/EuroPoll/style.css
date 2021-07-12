@@ -1,0 +1,7 @@
+li a {
+color: yellow;
+}
+
+body {
+    background: yellow url("background_image.gif") repeat;
+}
